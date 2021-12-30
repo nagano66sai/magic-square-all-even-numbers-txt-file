@@ -1,4 +1,4 @@
-REM   using  decimal  basic   download  from   http://hp.vector.co.jp/authors/VA008683/setup.htm
+rem   using  decimal  basic   download  from   http://hp.vector.co.jp/authors/VA008683/setup.htm
 rem   english version  download  from   https://decimalbasic.ninja-web.net/EnglishInstallerWin.htm
 PRINT   "input   all  even   numbers"
 INPUT   n
